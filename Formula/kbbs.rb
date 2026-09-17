@@ -1,8 +1,8 @@
 class Kbbs < Formula
   desc "Read and send KakaoTalk from a 1990s-style Korean BBS terminal"
   homepage "https://github.com/gum798/kbbs"
-  url "https://github.com/gum798/kbbs/archive/refs/tags/v1.260917.5.tar.gz"
-  sha256 "300205a8b1cd39f8afba6eb25ca0139b35d7f873d70ce06cf7cbcdccc14da345"
+  url "https://github.com/gum798/kbbs/archive/refs/tags/v1.260917.6.tar.gz"
+  sha256 "15644f015865b4caf9efa6bf9148378203f6ddd98bc96cab18e4f78947d8e670"
   license "MIT"
   head "https://github.com/gum798/kbbs.git", branch: "master"
 
